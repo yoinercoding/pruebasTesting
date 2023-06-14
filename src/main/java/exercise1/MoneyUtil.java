@@ -1,3 +1,5 @@
+package exercise1;
+
 import java.math.BigDecimal;
 
 public class MoneyUtil {

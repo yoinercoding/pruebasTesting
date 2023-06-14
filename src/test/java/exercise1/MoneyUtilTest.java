@@ -1,3 +1,5 @@
+package exercise1;
+
 import org.junit.Test;
 import org.junit.Assert;
 
