@@ -1,2 +1,5 @@
 # pruebasTesting
-Testing con JUnit
+
+Saludos :D
+
+[Yoiner Rafael Bello Fajardo](https://www.linkedin.com/in/yoinerbello/)
